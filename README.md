@@ -13,4 +13,3 @@ Kompetencje oraz zakres obowiązków:
 <b>Architekt</b> jest odpowiedzialny za projektowanie i planowanie struktury oprogramowania oraz zapewnienie jego skalowalności i wydajności.<br>
 <br>
 Zespół ten będzie działał jako oddzielna jednostka prawna tj. spółka z ograniczoną odpowiedzialnością. W tym przypadku, team leader jest odpowiedzialny za reprezentowanie zespołu wobec klientów i innych stron zewnętrznych.
-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
