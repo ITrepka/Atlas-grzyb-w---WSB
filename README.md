@@ -17,13 +17,13 @@ Zespół ten będzie działał jako oddzielna jednostka prawna tj. spółka z og
 <br>
 <b>Przetarg na przygotowanie aplikacji został opisany przez osobę zlecającą w następujących punktach:<b>
 <br>
-+Interfejs użytkownika: Aplikacja powinna posiadać przejrzysty i łatwy w obsłudze interfejs użytkownika, który pozwala na łatwe przeglądanie i filtrowanie danych.
-+Przeznaczenie: Aplikacja na urzadzenia mobilne dostępna w sklepie app store i google play
-+Baza danych grzybów: Aplikacja powinna posiadać bogatą bazę danych grzybów, zawierającą informacje takie jak nazwa, opis, zdjęcie, informacje o występowaniu, siedlisku itp.
-+Filtr geo: Aplikacja powinna posiadać funkcję filtrowania grzybów według lokalizacji geograficznej, pozwalając na wyszukiwanie grzybów w określonym obszarze lub regionie.
-+Integracja map: Aplikacja powinna umożliwiać wykorzystanie map do prezentacji lokalizacji grzybów oraz łatwego nawigowania po nich.
-+Współdzielenie danych: Aplikacja powinna umożliwiać użytkownikom współdzielanie informacji o grzybach z innymi użytkownikami oraz udostępnianie ich na różnych platformach społecznościowych.
-+Ochrona danych: Aplikacja powinna zapewniać bezpieczeństwo danych użytkowników oraz ich prywatności, zgodnie z obowiązującymi przepisami o ochronie danych.
-+Dostępność offline: Aplikacja powinna umożliwiać dostęp do danych grzybów nie tylko online, ale również offline, tak aby użytkownicy mogli korzystać z niej w terenie bez dostępu do internetu.
-+Aktualizacje: Aplikacja powinna być regularnie aktualizowana, aby zapewnić użytkownikom dostęp do najnowszych danych i funkcji.
++Interfejs użytkownika: Aplikacja powinna posiadać przejrzysty i łatwy w obsłudze interfejs użytkownika, który pozwala na łatwe przeglądanie i filtrowanie danych.<br>
++Przeznaczenie: Aplikacja na urzadzenia mobilne dostępna w sklepie app store i google play<br>
++Baza danych grzybów: Aplikacja powinna posiadać bogatą bazę danych grzybów, zawierającą informacje takie jak nazwa, opis, zdjęcie, informacje o występowaniu, siedlisku itp.<br>
++Filtr geo: Aplikacja powinna posiadać funkcję filtrowania grzybów według lokalizacji geograficznej, pozwalając na wyszukiwanie grzybów w określonym obszarze lub regionie.<br>
++Integracja map: Aplikacja powinna umożliwiać wykorzystanie map do prezentacji lokalizacji grzybów oraz łatwego nawigowania po nich.<br>
++Współdzielenie danych: Aplikacja powinna umożliwiać użytkownikom współdzielanie informacji o grzybach z innymi użytkownikami oraz udostępnianie ich na różnych platformach społecznościowych.<br>
++Ochrona danych: Aplikacja powinna zapewniać bezpieczeństwo danych użytkowników oraz ich prywatności, zgodnie z obowiązującymi przepisami o ochronie danych.<br>
++Dostępność offline: Aplikacja powinna umożliwiać dostęp do danych grzybów nie tylko online, ale również offline, tak aby użytkownicy mogli korzystać z niej w terenie bez dostępu do internetu.<br>
++Aktualizacje: Aplikacja powinna być regularnie aktualizowana, aby zapewnić użytkownikom dostęp do najnowszych danych i funkcji.<br>
 
