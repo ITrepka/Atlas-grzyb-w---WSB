@@ -15,7 +15,7 @@ Kompetencje oraz zakres obowiązków:
 Zespół ten będzie działał jako oddzielna jednostka prawna tj. spółka z ograniczoną odpowiedzialnością. W tym przypadku, team leader jest odpowiedzialny za reprezentowanie zespołu wobec klientów i innych stron zewnętrznych.
 <br>
 <br>
-<b>Przetarg na przygotowanie aplikacji został opisany przez osobę zlecającą w następujących punktach:<b>
+<b>Przetarg na przygotowanie aplikacji został opisany przez osobę zlecającą w następujących punktach:</b>
 <br>
 1. Interfejs użytkownika: Aplikacja powinna posiadać przejrzysty i łatwy w obsłudze interfejs użytkownika, który pozwala na łatwe przeglądanie i filtrowanie danych.<br>
 2. Przeznaczenie: Aplikacja na urzadzenia mobilne dostępna w sklepie app store i google play<br>
